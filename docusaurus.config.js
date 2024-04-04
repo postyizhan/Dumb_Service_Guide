@@ -6,6 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
+    customFields: {
+        // 标题前缀
+        titlePrefix: "主页",
+        // 开始按钮文字
+        start: "快速开始 🥵",
+    },
+
   title: '笨蛋MC开服教程',
   tagline: '一群笨蛋们写的Minecraft开服教程',
   favicon: 'img/favicon.ico',
@@ -121,7 +129,7 @@ const config = {
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <b>PostYiZhan</b>, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
