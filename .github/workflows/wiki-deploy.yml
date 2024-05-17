@@ -14,10 +14,10 @@ jobs:
     steps:
       # 拉取代码
       - name: Checkout
-        uses: actions/checkout@v3
-    # 启用缓存加速部署
-      - name: Cache node modules
-        uses: actions/cache@v2
+        uses: actions/checkout@v4
+      # 启用缓存加速部署
+      - name: Cache
+        uses: actions/cache@v4
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
