@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# BungeeCord/waterfall
+# BungeeCord 端
 
-支持 `BungeeCord/waterfall` 的插件
+支持 *BungeeCord/Waterfall* 的插件

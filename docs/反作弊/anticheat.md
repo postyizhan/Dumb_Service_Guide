@@ -11,7 +11,7 @@ sidebar_position: 1
 
 外挂行为一直都是存在各种服务器上的
 
-包括minecraft伺服器上
+包括 Minecraft 服务器上
 
 也是有很多**Hacker Client User**（作弊端用户）
 

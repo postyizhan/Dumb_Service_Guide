@@ -1,11 +1,21 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// (when paired with `@ts-check`).
+// There are various equivalent ways to declare your Docusaurus config.
+// See: https://docusaurus.io/docs/api/docusaurus-config
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
+  customFields: {
+    // 标题前缀
+    titlePrefix: "主页",
+    // 开始按钮文字
+    start: "快速开始 🥵",
+  },
+
   title: '笨蛋MC开服教程',
   tagline: '一群笨蛋们写的Minecraft开服教程',
   favicon: 'img/favicon.ico',
@@ -14,16 +24,14 @@ const config = {
   url: 'https://postyizhan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Dumb_Service_Guide/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'postyizhan', // Usually your GitHub org/user name.
-  projectName: 'Dumb_Service_Guide', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  projectName: '傻瓜指南', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -31,7 +39,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans', 'en'],
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -42,8 +50,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl:
-            'https://github.com/postyizhan/Dumb_Service_Guide/blob/main'
+          editUrl: 'https://github.com/postyizhan/NitWikit/tree/main'
         },
         blog: false,
         theme: {
@@ -59,10 +66,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Dumb_Service_Guide',
+        title: 'NitWikit',
         logo: {
           alt: 'Logo',
-          src: 'img/yizhan.png',
+          src: 'img/book.png',
         },
         hideOnScroll: false,
         items: [
@@ -77,10 +84,11 @@ const config = {
             type: 'search',
             position: 'right',
           },
+          // Github
           {
-            href: 'https://github.com/postyizhan/Dumb_Service_Guide',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/postyizhan/NitWikit",
+            className: "header-github-link",
+            position: "right",
           },
           {
             type: 'localeDropdown',
@@ -115,18 +123,18 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/postyizhan/Dumb_Service_Guide',
+                href: 'https://github.com/postyizhan/NitWikit',
               },
             ],
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <b>postyizhan</b>, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
       // 颜色随系统切换
       colorMode: {
@@ -134,19 +142,19 @@ const config = {
       },
     }),
 
-    themes: [
-      [
-        require.resolve("@easyops-cn/docusaurus-search-local"),
-        {
-          hashed: true,
-          language: ["en", "zh"],
-          highlightSearchTermsOnTargetPage: true,
-          explicitSearchResultPath: true,
-          indexBlog: false,
-          docsRouteBasePath: "/"
-        },
-      ],
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        language: ["en", "zh"],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        indexBlog: false,
+        docsRouteBasePath: "/"
+      },
     ],
+  ],
 };
 
-module.exports = config;
+export default config;

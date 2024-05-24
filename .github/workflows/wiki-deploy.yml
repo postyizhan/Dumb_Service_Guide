@@ -1,0 +1,33 @@
+name: Wiki Deploy
+
+# 触发条件
+on: [ workflow_dispatch, push, pull_request ]
+
+# 设置权限
+permissions:
+  contents: write
+
+# 任务
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 拉取代码
+      - name: Checkout
+        uses: actions/checkout@v4
+      # 启用缓存加速部署
+      - name: Cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+      # 安装 Npm 并构建
+      - name: Install and Build
+        run: npm install && npm run build
+      # 部署
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build

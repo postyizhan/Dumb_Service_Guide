@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '简单易用',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '「简单」',
+    Svg: require('@site/static/img/grass.svg').default,
     description: (
       <>
-        MC就这点配置有啥难的.
+        手把手教你,甚至双击就可以完成
       </>
     ),
   },
   {
-    title: '文档详细',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '「详细」',
+    Svg: require('@site/static/img/crafting-table.svg').default,
     description: (
       <>
-        看完文档学不会怎么开服说明你是个傻逼.
+        充实的内容,让你新手变大佬
       </>
     ),
   },
   {
-    title: '内容详细',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '「现代」',
+    Svg: require('@site/static/img/furnace.svg').default,
     description: (
       <>
-        多说无益, 看看就知道了.
+        基于MC社区最新内容编写,保持更新
       </>
     ),
   },
