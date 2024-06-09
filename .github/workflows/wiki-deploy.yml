@@ -1,7 +1,7 @@
 name: Wiki Deploy
 
 # 触发条件
-on: [ workflow_dispatch, push, pull_request ]
+on: [ workflow_dispatch, push ]
 
 # 设置权限
 permissions:

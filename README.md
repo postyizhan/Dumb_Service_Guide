@@ -84,153 +84,151 @@ https://nitwikit.yizhan.wiki/
 
 他们为文档贡献了部分内容/页面
 
-<!-- readme: contributors,Radiation-pi/-,lilingfengdev/-,postyizhan/-,Imgbot/- -start -->
 <table>
 	<tbody>
 		<tr>
-            <td align="center">
-                <a href="https://github.com/Radiation-pi">
-                    <img src="https://avatars.githubusercontent.com/u/96102795?v=4" width="50;" alt="Radiation-pi"/>
-                    <br />
-                    <sub><b>Radiation-pi</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/gyc123456-1">
-                    <img src="https://avatars.githubusercontent.com/u/69791212?v=4" width="50;" alt="gyc123456-1"/>
-                    <br />
-                    <sub><b>gyc123456-1</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/liangcha385">
-                    <img src="https://avatars.githubusercontent.com/u/108937242?v=4" width="50;" alt="liangcha385"/>
-                    <br />
-                    <sub><b>凉茶是帅哥</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/lRENyaaa">
-                    <img src="https://avatars.githubusercontent.com/u/92320175?v=4" width="50;" alt="lRENyaaa"/>
-                    <br />
-                    <sub><b>RENaa_FD</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/TATyKeFei">
-                    <img src="https://avatars.githubusercontent.com/u/125815900?v=4" width="50;" alt="TATyKeFei"/>
-                    <br />
-                    <sub><b>哈2哈哈哈3</b></sub>
-                </a>
-            </td>
+      <td align="center">
+          <a href="https://github.com/Radiation-pi">
+              <img src="https://avatars.githubusercontent.com/u/96102795?v=4" width="50;" alt="Radiation-pi"/>
+              <br />
+              <sub><b>Radiation-pi</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/gyc123456-1">
+              <img src="https://avatars.githubusercontent.com/u/69791212?v=4" width="50;" alt="gyc123456-1"/>
+              <br />
+              <sub><b>gyc123456-1</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/liangcha385">
+              <img src="https://avatars.githubusercontent.com/u/108937242?v=4" width="50;" alt="liangcha385"/>
+              <br />
+              <sub><b>凉茶是帅哥</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/lRENyaaa">
+              <img src="https://avatars.githubusercontent.com/u/92320175?v=4" width="50;" alt="lRENyaaa"/>
+              <br />
+              <sub><b>RENaa_FD</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/TATyKeFei">
+              <img src="https://avatars.githubusercontent.com/u/125815900?v=4" width="50;" alt="TATyKeFei"/>
+              <br />
+              <sub><b>哈2哈哈哈3</b></sub>
+          </a>
+      </td>
 		</tr>
 		<tr>
-            <td align="center">
-                <a href="https://github.com/Lafcadia">
-                    <img src="https://avatars.githubusercontent.com/u/147896059?v=4" width="50;" alt="Lafcadia"/>
-                    <br />
-                    <sub><b>Zaixu Zheng</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/FallenCrystal">
-                    <img src="https://avatars.githubusercontent.com/u/71176602?v=4" width="50;" alt="FallenCrystal"/>
-                    <br />
-                    <sub><b>Akkariin</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/TheFloodDragon">
-                    <img src="https://avatars.githubusercontent.com/u/75253383?v=4" width="50;" alt="TheFloodDragon"/>
-                    <br />
-                    <sub><b>蛟龙</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/ImgBotApp">
-                    <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="50;" alt="ImgBotApp"/>
-                    <br />
-                    <sub><b>Imgbot</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/CkaDebug">
-                    <img src="https://avatars.githubusercontent.com/u/141492699?v=4" width="50;" alt="CkaDebug"/>
-                    <br />
-                    <sub><b>Debug-Cracked</b></sub>
-                </a>
-            </td>
+      <td align="center">
+          <a href="https://github.com/Lafcadia">
+              <img src="https://avatars.githubusercontent.com/u/147896059?v=4" width="50;" alt="Lafcadia"/>
+              <br />
+              <sub><b>Zaixu Zheng</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/FallenCrystal">
+              <img src="https://avatars.githubusercontent.com/u/71176602?v=4" width="50;" alt="FallenCrystal"/>
+              <br />
+              <sub><b>Akkariin</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/TheFloodDragon">
+              <img src="https://avatars.githubusercontent.com/u/75253383?v=4" width="50;" alt="TheFloodDragon"/>
+              <br />
+              <sub><b>蛟龙</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/ImgBotApp">
+              <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="50;" alt="ImgBotApp"/>
+              <br />
+              <sub><b>Imgbot</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/CkaDebug">
+              <img src="https://avatars.githubusercontent.com/u/141492699?v=4" width="50;" alt="CkaDebug"/>
+              <br />
+              <sub><b>Debug-Cracked</b></sub>
+          </a>
+      </td>
 		</tr>
 		<tr>
-            <td align="center">
-                <a href="https://github.com/lim114514">
-                    <img src="https://avatars.githubusercontent.com/u/113185430?v=4" width="50;" alt="lim114514"/>
-                    <br />
-                    <sub><b>lim114514</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/HaHaWTH">
-                    <img src="https://avatars.githubusercontent.com/u/102713261?v=4" width="50;" alt="HaHaWTH"/>
-                    <br />
-                    <sub><b>DGun Otto</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/MySoulcutting">
-                    <img src="https://avatars.githubusercontent.com/u/72398605?v=4" width="50;" alt="MySoulcutting"/>
-                    <br />
-                    <sub><b>White_Souls</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/MoLiyi-WD">
-                    <img src="https://avatars.githubusercontent.com/u/166040564?v=4" width="50;" alt="MoLiyi-WD"/>
-                    <br />
-                    <sub><b>MoLiyi-WD</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/LittleChest">
-                    <img src="https://avatars.githubusercontent.com/u/81231195?v=4" width="50;" alt="LittleChest"/>
-                    <br />
-                    <sub><b>LittleChest</b></sub>
-                </a>
-            </td>
+      <td align="center">
+          <a href="https://github.com/lim114514">
+              <img src="https://avatars.githubusercontent.com/u/113185430?v=4" width="50;" alt="lim114514"/>
+              <br />
+              <sub><b>lim114514</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/HaHaWTH">
+              <img src="https://avatars.githubusercontent.com/u/102713261?v=4" width="50;" alt="HaHaWTH"/>
+              <br />
+              <sub><b>DGun Otto</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/MySoulcutting">
+              <img src="https://avatars.githubusercontent.com/u/72398605?v=4" width="50;" alt="MySoulcutting"/>
+              <br />
+              <sub><b>White_Souls</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/MoLiyi-WD">
+              <img src="https://avatars.githubusercontent.com/u/166040564?v=4" width="50;" alt="MoLiyi-WD"/>
+              <br />
+              <sub><b>MoLiyi-WD</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/LittleChest">
+              <img src="https://avatars.githubusercontent.com/u/81231195?v=4" width="50;" alt="LittleChest"/>
+              <br />
+              <sub><b>LittleChest</b></sub>
+          </a>
+      </td>
 		</tr>
 		<tr>
-            <td align="center">
-                <a href="https://github.com/SeaOrangejuice">
-                    <img src="https://avatars.githubusercontent.com/u/116551329?v=4" width="50;" alt="SeaOrangejuice"/>
-                    <br />
-                    <sub><b>Sea_of_Orange</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/IAFEnvoy">
-                    <img src="https://avatars.githubusercontent.com/u/83523430?v=4" width="50;" alt="IAFEnvoy"/>
-                    <br />
-                    <sub><b>IAFEnvoy</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/serverbread">
-                    <img src="https://avatars.githubusercontent.com/u/119761840?v=4" width="50;" alt="serverbread"/>
-                    <br />
-                    <sub><b>SB</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/TalentsRC">
-                    <img src="https://avatars.githubusercontent.com/u/85682725?v=4" width="50;" alt="TalentsRC"/>
-                    <br />
-                    <sub><b>TalentsRC</b></sub>
-                </a>
-            </td>
+      <td align="center">
+          <a href="https://github.com/SeaOrangejuice">
+              <img src="https://avatars.githubusercontent.com/u/116551329?v=4" width="50;" alt="SeaOrangejuice"/>
+              <br />
+              <sub><b>Sea_of_Orange</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/IAFEnvoy">
+              <img src="https://avatars.githubusercontent.com/u/83523430?v=4" width="50;" alt="IAFEnvoy"/>
+              <br />
+              <sub><b>IAFEnvoy</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/serverbread">
+              <img src="https://avatars.githubusercontent.com/u/119761840?v=4" width="50;" alt="serverbread"/>
+              <br />
+              <sub><b>SB</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/TalentsRC">
+              <img src="https://avatars.githubusercontent.com/u/85682725?v=4" width="50;" alt="TalentsRC"/>
+              <br />
+              <sub><b>TalentsRC</b></sub>
+          </a>
+      </td>
 		</tr>
 	<tbody>
 </table>
-<!-- readme: contributors,Radiation-pi/-,lilingfengdev/-,postyizhan/-,Imgbot/- -end -->
 
 
 ## 📜 笨蛋脚本
