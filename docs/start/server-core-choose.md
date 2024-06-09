@@ -1,5 +1,6 @@
 ---
-sidebar_position: 3
+title: 服务器核心选择
+sidebar_position: 2
 ---
 
 # 服务端核心选择
