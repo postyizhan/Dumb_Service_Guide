@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # RNG
 
+RNG是**随机数生成器**的简写
+
 看你怎么定义了，因为下面这几个东西本质上只是个计算器
 
 **原理？**
@@ -14,8 +16,8 @@ sidebar_position: 4
 
 现成的客户端mod：
 
-- https://www.mcmod.cn/class/4239.html
-- https://github.com/Earthcomputer/EnchantmentCracker
+- [clientcommands](https://www.mcmod.cn/class/4239.html)
+- [EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) 
 
 # 能干啥？
 
@@ -33,7 +35,7 @@ sidebar_position: 4
 
 # 允许破解
 
-purpur(包括分支)和leaves核心可以调节
+[purpur](https://purpurmc.org/)和[leaves](https://leavesmc.org/)核心(包括它们的分支)可以调节是否允许破解rng
 
 默认是反RNG的，不用改
 
@@ -53,7 +55,7 @@ purpur(包括分支)和leaves核心可以调节
 use-vanilla-random: false
 ```
 
-改为true就可以允许玩家预测RNG
+改为true就可以启用原版的RNG
 
 如果你使用Gale,Leaf这些分支，你甚至不需要担心,因为他们的随机数发生器已经不再是原版的随机数发生器，就算你开了也没屌用
 
