@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+title: 服务端结构
+sidebar_position: 2
 ---
 
-# 什么是服务端？
+# 服务端结构
 
 我们先来简单看一眼 Purpur 的文件夹结构：
 
@@ -43,7 +44,7 @@ sidebar_position: 1
 
 :::info
 
-对于世界文件夹的详细说明，请前往[世界文件架构](/docs/准备工作/基础知识/什么是世界.md)
+对于世界文件夹的详细说明，请前往[世界文件架构](/docs/preparation/基础知识/什么是世界.md)
 
 :::
 
