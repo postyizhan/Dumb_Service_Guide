@@ -25,4 +25,4 @@ sidebar_position: 5
 
 ### 解析到自己域名
 
-+ 可参考本文档中的 [申请域名](https://nitwikit.yizhan.wiki/正式开服/申请域名)
++ 可参考本文档中的 [申请域名](https://nitwikit.yizhan.wiki/start/申请域名)
