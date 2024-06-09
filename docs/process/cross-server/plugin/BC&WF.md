@@ -1,5 +1,5 @@
 ---
-title: 
+title: BungeeCord 端
 sidebar_position: 1
 ---
 
