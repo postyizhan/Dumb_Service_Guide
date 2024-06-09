@@ -197,13 +197,20 @@ https://nitwikit.yizhan.wiki/
                     <sub><b>LittleChest</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/SeaOrangejuice">
                     <img src="https://avatars.githubusercontent.com/u/116551329?v=4" width="50;" alt="SeaOrangejuice"/>
                     <br />
                     <sub><b>Sea_of_Orange</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/TheFloodDragon">
+                    <img src="https://avatars.githubusercontent.com/u/75253383?v=4" width="50;" alt="TheFloodDragon"/>
+                    <br />
+                    <sub><b>蛟龙</b></sub>
                 </a>
             </td>
             <td align="center">
