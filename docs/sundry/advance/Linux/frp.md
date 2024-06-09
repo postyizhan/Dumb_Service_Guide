@@ -140,7 +140,7 @@ systemctl start frpc.service
 
 效果展示：
 
-![](_images/Linux开服/build-up内网穿透/3.png)
+![](_images/Linux开服/搭建内网穿透/3.png)
 
 在我们这个演示例子中：
 
@@ -154,4 +154,4 @@ Frp 日志中可以输入以下指令查看 Frp 日志
 cat /var/log/frps.log
 ```
 
-![](_images/Linux开服/build-up内网穿透/4.png)
+![](_images/Linux开服/搭建内网穿透/4.png)
