@@ -38,7 +38,7 @@ MiniMessage 的实质是一个叫 Adventure 的库，这是它的[文档](https:
 
 **本篇不讲述诸如 TAB 等插件或模组自行实现的类似 MiniMessage 效果的使用**
 
-和 [格式化代码](格式化代码.md) 篇一样，一个 TrMenu菜单 配置展示下
+和 [格式化代码](format-code.md) 篇一样，一个 TrMenu菜单 配置展示下
 
 ```
 Icons:

@@ -7,7 +7,7 @@ sidebar_position: 7
 
 1. 检查你的服务器有没有安装Spark插件， 尝试`/spark`命令或者`/pl`看看有没有Spark
 
-如果没有， 手动安装一下[Spark](性能分析.md)
+如果没有， 手动安装一下[Spark](performance-analysis.md)
 
 2. 开启Spark记录
 
