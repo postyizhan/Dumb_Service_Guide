@@ -1,21 +1,21 @@
-on:
-    push:
-        branches:
-            - main
+# on:
+#     push:
+#         branches:
+#             - main
 
-jobs:
-    contrib-readme-job:
-        runs-on: ubuntu-latest
-        name: 生成贡献列表
-        permissions:
-          contents: write
-          pull-requests: write
-        steps:
-            - name: Contribute List
-              uses: akhilmhdh/contributors-readme-action@v2.3.10
-              with:
-                  image_size: 50
-                  columns_per_row: 5
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# jobs:
+#     contrib-readme-job:
+#         runs-on: ubuntu-latest
+#         name: 生成贡献列表
+#         permissions:
+#           contents: write
+#           pull-requests: write
+#         steps:
+#             - name: Contribute List
+#               uses: akhilmhdh/contributors-readme-action@v2.3.10
+#               with:
+#                   image_size: 50
+#                   columns_per_row: 5
+#               env:
+#                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
