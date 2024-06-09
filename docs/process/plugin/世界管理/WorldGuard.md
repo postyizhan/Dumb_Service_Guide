@@ -1,4 +1,5 @@
 ---
+title: 
 sidebar_position: 2
 sidebar_label: 保护 - WorldGuard
 ---

@@ -21,7 +21,7 @@ sidebar_position: 1
 
 ## 选择合适的 Java
 
-参考[ Java 下载及安装](/docs/preparation/下载和安装java.md)安装合适的 Java
+参考[ Java 下载及安装](/docs/preparation/download-and-install-java.md)安装合适的 Java
 
 ## JVM 参数优化
 

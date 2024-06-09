@@ -1,4 +1,5 @@
 ---
+title: 笨蛋脚本使用
 sidebar_position: 5
 ---
 
