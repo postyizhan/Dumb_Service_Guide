@@ -15,8 +15,8 @@ sidebar_position: 2
 | Classic - 1.6.4 | JDK 6(真的有人会开这种服务器)                           | [JDK 6 64位](https://vip.123pan.cn/1821558579/Lingyi/java/6/jdk6-windowsx64-mcres.cn.exe) |
 | 1.7 - 1.12.2    | JDK 8 （如果使用的是SportPaper或者Beast，最好用JDK 21）    | [JDK 8 64位](https://cdn.yghpy.com/DL.Javas/zulu8.74.0.17-ca-jdk8.0.392-win_x64.msi)      |
 | 1.13 - 1.16.5   | JDK 11（推荐） 或者 JDK 8 部分整合包仅能使用 JDK 8 或 JDK 16 | [JDK 11 64位](https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jdk11.0.23-win_x64.msi)       |
-| 1.17 - 1.19.4   | JDK17，模组服推荐17,插件服推荐 JDK 21(特别是Leaf，Beast核心)  | [JDK 17 64位](https://cdn.yghpy.com/DL.Javas/zulu17.50.19-ca-fx-jdk17.0.11-win_x64.msi)   |
-| 1.20 - 1.20.4   | JDK 21（推荐） 或者 JDK 17                         |                                                                                          |
+| 1.17 - 1.19.4   | JDK17，模组服推荐17,插件服推荐 JDK 21（特别是Leaf，Beast核心）  | [JDK 17 64位](https://cdn.yghpy.com/DL.Javas/zulu17.50.19-ca-fx-jdk17.0.11-win_x64.msi)   |
+| 1.20 - 1.20.4   | JDK 21（推荐）或者 JDK 17                         |                                                                                          |
 | 1.20.5 +        | JDK 21                                       | [JDK 21 64位](https://cdn.yghpy.com/DL.Javas/zulu21.34.19-ca-fx-jdk21.0.3-win_x64.msi)    |
 
 :::danger
