@@ -68,7 +68,7 @@ java -Xms2G -Xmx2G -jar 核心名.jar --nogui
 
 ## 最初的开启
 
-双击启动脚本后，大概率会卡在你会看到 Downloading mojang_x.x.x.jar，请耐心等待或查看[加速 mojang 核心下载](/docs/sundry/常见问题.md)
+双击启动脚本后，大概率会卡在你会看到 Downloading mojang_x.x.x.jar，请耐心等待或查看[加速 mojang 核心下载](/docs/sundry/FAQ.md)
 
 一旦下载完成，他会提示：
 

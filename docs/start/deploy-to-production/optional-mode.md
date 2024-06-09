@@ -11,7 +11,7 @@ sidebar_position: 2
 
 :::
 
-建议先阅读 [购置服务器](/docs/sundry/购置服务器.md)
+建议先阅读 [购置服务器](/docs/sundry/purchase-server.md)
 
 ## 面板
 

@@ -61,7 +61,7 @@ sidebar_position: 1
 
 :::info
 
-见 [这里](/docs/sundry/手机玩家支持/Geyser/入门/概览.md)
+见 [这里](/docs/sundry/mobile-player/Geyser/introduction/overview.md)
 
 :::
 

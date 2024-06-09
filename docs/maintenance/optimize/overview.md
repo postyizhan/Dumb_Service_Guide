@@ -84,7 +84,7 @@ sidebar_position: 1
 
 无论在性能还是稳定性， Linux 都比 Windows 更适合用于开服，对于 Linux 根据自己的使用经验选择即可，如果没有使用经验可以先使用 Ubuntu 等主流系统。
 
-如果想要了解更多请前往进阶[Linux开服教程](/docs/sundry/进阶教程/Linux%E5%BC%80%E6%9C%8D/Linux%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B.md)
+如果想要了解更多请前往进阶[Linux开服教程](/docs/sundry/advance/Linux/tutorial.md)
 
 # 第六步 - 性能分析
 
