@@ -44,7 +44,7 @@ sidebar_position: 2
 
 :::info
 
-对于世界文件夹的详细说明，请前往[世界文件架构](/docs/preparation/基础知识/什么是世界.md)
+对于世界文件夹的详细说明，请前往[世界文件架构](/docs/start/基础知识/什么是世界.md)
 
 :::
 
