@@ -1,0 +1,12 @@
+---
+title: 概览
+sidebar_position: 1
+---
+
+# 概览
+
+kether并不是一个插件，而是使用Taboolib框架开发的插件（如TrMenu，TrChat，Adyeshach）所使用的脚本语言.
+
+https://www.yuque.com/sacredcraft/kether 这篇教程写的足够好了喵
+
+kether语句表：https://kether.tabooproject.org/list.html

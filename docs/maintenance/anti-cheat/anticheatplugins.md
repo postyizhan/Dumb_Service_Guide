@@ -1,5 +1,5 @@
 ---
-title: 
+title: 反作弊插件
 sidebar_position: 3
 ---
 

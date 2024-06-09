@@ -1,5 +1,5 @@
 ---
-title: 
+title: 矿物透视与种子破解
 sidebar_position: 2
 ---
 

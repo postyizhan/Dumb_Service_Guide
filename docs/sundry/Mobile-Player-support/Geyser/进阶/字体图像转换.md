@@ -1,0 +1,22 @@
+---
+title: 字体图像转换
+sidebar_position: 6
+---
+
+# 字体图像转换
+
+## AZPixel-Team的Java2Bedrock
+
+:::tips
+
+注意！字体偏移是Java版独有的，基岩版没有这个功能，因此一些利用字体偏移做到的东西（如IA菜单）需要你写jsonui
+
+我非常建议使用这个来管理基岩版的字体资源包，否则你的字体图像管理是非常痛苦的
+
+:::
+
+#### 如何使用
+
+跟[这里](https://nitwikit.yizhan.wiki/%E6%89%A9%E5%B1%95%E9%98%85%E8%AF%BB/%E6%89%8B%E6%9C%BA%E7%8E%A9%E5%AE%B6%E6%94%AF%E6%8C%81/Geyser/%E8%BF%9B%E9%98%B6/%E6%9D%90%E8%B4%A8%E5%8C%85%E8%BD%AC%E6%8D%A2#%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4)基本没有区别
+
+但是在填写资源包下载地址地方的下面，要把`Font Conversion`选项设置为Ture

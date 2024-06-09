@@ -1,5 +1,5 @@
 ---
-title: 
+title: SkinsRestorer
 sidebar_position: 6
 sidebar_label: 皮肤 - skinsRestorer
 ---

@@ -1,5 +1,5 @@
 ---
-title: 
+title: RNG
 sidebar_position: 4
 ---
 

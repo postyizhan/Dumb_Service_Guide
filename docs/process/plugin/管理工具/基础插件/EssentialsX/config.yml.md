@@ -1,5 +1,5 @@
 ---
-title: 
+title: config.yml
 sidebar_position: 3
 ---
 
