@@ -34,7 +34,7 @@ sidebar_position: 1
 
 :::info
 
-见 [这里](/docs/插件/其他/跨版本/概览.md)
+见 [这里](/docs/process/plugin/其他/跨版本/概览.md)
 
 :::
 
@@ -48,7 +48,7 @@ sidebar_position: 1
 
 ## SkinsRestorer
 
-[插件 | 皮肤 - skinsRestorer](/docs/插件/其他/皮肤%20-%20skinsRestorer.md)
+[插件 | 皮肤 - skinsRestorer](/docs/process/plugin/其他/皮肤%20-%20skinsRestorer.md)
 
 :::danger[缺点]
 
@@ -95,7 +95,7 @@ sidebar_position: 1
 
 :::info
 
-见 [插件 | ServerUtils](/docs/插件/管理工具/插件管理/ServerUtils.md)
+见 [插件 | ServerUtils](/docs/process/plugin/管理工具/插件管理/ServerUtils.md)
 
 :::
 
