@@ -75,4 +75,4 @@ servers:
 
 ## 加入
 
-见 [加入服务器](/docs/process/cross-server/搭建/加入服务器.md)
+见 [加入服务器](/docs/process/cross-server/build-up/join-server.md)

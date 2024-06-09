@@ -25,7 +25,7 @@ sidebar_position: 5
 
 :::warning
 
-注意！咨询其他人时请先查看 [如何向大佬求助](/docs/start/%E5%90%91%E5%A4%A7%E4%BD%AC%E6%B1%82%E5%8A%A9.md)
+注意！咨询其他人时请先查看 [如何向大佬求助](/docs/start/ask-for-help.md)
 
 :::
 

@@ -47,7 +47,7 @@ set https_proxy=http://127.0.0.1:7890
 
 ## 如何关闭服务器
 
-[看这里](/docs/start/服务器管理指令.md#stop)
+[看这里](/docs/start/server-management-command.md#stop)
 
 ## 由于个人信息公钥丢失，聊天已被禁用
 
