@@ -1,9 +1,9 @@
 ---
-title: 不分插件缩写
-sidebar_position: 9
+title: 部分插件缩写
+sidebar_position: 7
 ---
 
-# 插件缩写
+# 部分插件缩写
 
 <details>
     <summary> 部分插件的缩写，点击查看 </summary>
