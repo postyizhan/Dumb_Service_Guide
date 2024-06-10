@@ -67,6 +67,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'docs-plugin',
+        path: 'docs-plugin',
         routeBasePath: 'docs-plugin',
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
@@ -77,6 +78,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'docs-porxy',
+        path: 'docs-porxy',
         routeBasePath: 'docs-porxy',
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
@@ -87,6 +89,7 @@ const config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'docs-hybrid',
+        path: 'docs-hybrid',
         routeBasePath: 'docs-hybrid',
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
