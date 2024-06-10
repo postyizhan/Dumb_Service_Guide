@@ -51,6 +51,8 @@ const config = {
           path: 'docs',
           routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           editUrl: 'https://github.com/postyizhan/NitWikit/tree/main'
         },
         blog: false,
@@ -65,7 +67,7 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'docs-plugin',
+        id: 'plugin',
         path: 'docs-plugin',
         routeBasePath: 'docs-plugin',
         sidebarPath: require.resolve('./sidebars.js'),
@@ -74,7 +76,7 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'docs-porxy',
+        id: 'porxy',
         path: 'docs-porxy',
         routeBasePath: 'docs-porxy',
         sidebarPath: require.resolve('./sidebars.js'),
@@ -83,7 +85,7 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'docs-hybrid',
+        id: 'hybrid',
         path: 'docs-hybrid',
         routeBasePath: 'docs-hybrid',
         sidebarPath: require.resolve('./sidebars.js'),
@@ -105,32 +107,31 @@ const config = {
         hideOnScroll: false,
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'basicSiderbar',
+            type: 'doc',
+            docId: 'intro',
             position: 'left',
             label: '开始',
-            docsPluginId: "default"
           },
           {
             type: 'docSidebar',
             sidebarId: 'basicSiderbar',
             position: 'left',
             label: '插件',
-            docsPluginId: "docs-plugin"
+            docsPluginId: "plugin"
           },
           {
             type: 'docSidebar',
             sidebarId: 'basicSiderbar',
             position: 'left',
             label: '代理端',
-            docsPluginId: "docs-proxy"
+            docsPluginId: "proxy"
           },
           {
             type: 'docSidebar',
             sidebarId: 'basicSiderbar',
             position: 'left',
             label: '混合端',
-            docsPluginId: "docs-hybrid"
+            docsPluginId: "hybrid"
           },
           // 搜索框
           {
@@ -162,7 +163,7 @@ const config = {
               },
               {
                 label: '插件',
-                to: '/docs/intro',
+                to: '/docs-plugin/intro',
               },
               {
                 label: '代理端',

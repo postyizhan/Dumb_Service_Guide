@@ -21,7 +21,7 @@ sidebar_position: 6
 
 **关闭权限**
 
-在跨服端安装 [Luckperms](/docs/process/plugin/管理工具/权限管理/概览.md) 然后执行命令：
+在跨服端安装 [Luckperms](/docs-plugin/manage-tool/权限管理/概览.md) 然后执行命令：
 
 - BungeeCord
 ```

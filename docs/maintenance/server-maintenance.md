@@ -13,7 +13,7 @@ sidebar_position: 5
 
 即使在区块出现损坏的情况下，CoreProtect 也能在一定程度上减少区块损坏所导致的后果。
 
-见 [插件/防熊插件/概览](/docs/process/plugin/防熊插件/概览.md)
+见 [插件/防熊插件/概览](/docs-plugin/防熊插件/概览.md)
 
 ## 检查日志
 
