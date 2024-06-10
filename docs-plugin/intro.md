@@ -12,7 +12,7 @@ sidebar_position: 1
 **建议阅读**
 
 - [YAML 语法](/docs/sundry/YAML/overview.md)    - 了解你书写配置的语法
-- [插件特征文件](/docs-plugin/plugin-signature-file.md)     - 了解插件的一些信息
+- [插件特征文件](/docs-plugin/plugin-signature-file)     - 了解插件的一些信息
 - [格式化代码](/docs/sundry/format-code.md)       - 了解彩色字体，下划线，删除线等
 - [MiniMessage](/docs/sundry/MiniMessage.md)   - 了解RGB颜色，文本悬浮和点击文字执行等
 
