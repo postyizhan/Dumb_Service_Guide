@@ -106,28 +106,47 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '/docs/intro',
             position: 'left',
             label: '开始',
+            docsPluginId: "default"
           },
           {
-            to: '/docs-plugin/intro',
+            type: 'docSidebar',
             position: 'left',
             label: '插件',
-            activeBaseRegex: '/docs-plugin/',
+            docsPluginId: "docs-plugin"
           },
-          {
-            to: '/docs-proxy/intro',
-            position: 'left',
-            label: '代理端',
-            activeBaseRegex: '/docs-proxy/',
-          },
-          {
-            to: '/docs-hybrid/intro',
-            position: 'left',
-            label: '混合端',
-            activeBaseRegex: '/docs-hybrid/',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'apiSidebar',
+          //   position: 'left',
+          //   label: 'API',
+          //   docsPluginId: "api"
+          // },
+          // {
+          //   to: '/docs/intro',
+          //   position: 'left',
+          //   label: '开始',
+          //   activeBaseRegex: '/docs/',
+          // },
+          // {
+          //   to: '/docs-plugin/intro',
+          //   position: 'left',
+          //   label: '插件',
+          //   activeBaseRegex: '/docs-plugin/',
+          // },
+          // {
+          //   to: '/docs-proxy/intro',
+          //   position: 'left',
+          //   label: '代理端',
+          //   activeBaseRegex: '/docs-proxy/',
+          // },
+          // {
+          //   to: '/docs-hybrid/intro',
+          //   position: 'left',
+          //   label: '混合端',
+          //   activeBaseRegex: '/docs-hybrid/',
+          // },
           // 搜索框
           {
             type: 'search',
