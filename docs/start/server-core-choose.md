@@ -139,4 +139,3 @@ Purpur端会自动安装 [spark（一个性能分析插件）](/docs/maintenance
 
 ![](_images/那些服务端有后门吗.png)
 
-一个镜像站 不方便加上面 https://mirror.polars.cc/#/minecraft/core
