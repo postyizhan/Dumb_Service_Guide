@@ -35,7 +35,7 @@ https://nitwikit.yizhan.wiki/
 - [九域](https://bbs.mc9y.net/threads/1624/)
 - [暮光方块论坛](https://bbs.tsfk.top/threads/399/)
 - [mcbbs2](https://mcbbs2.net/thread-103-1-1.html)
-- [mcutc论坛](https://bbs.mcutc.cn/560/)
+- [mcutc论坛](https://bbs.mcutc.cn/threads/560/)
 
 # 🤝 贡献者
 
