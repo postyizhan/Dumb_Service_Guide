@@ -50,9 +50,9 @@ const config = {
         docs: {
           path: 'docs',
           routeBasePath: 'docs',
-          sidebarPath: require.resolve('./sidebars.js'),
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
+          sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/postyizhan/NitWikit/tree/main'
         },
         blog: false,
@@ -67,27 +67,33 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'plugin',
+        id: 'docs-plugin',
         path: 'docs-plugin',
         routeBasePath: 'docs-plugin',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'porxy',
+        id: 'docs-porxy',
         path: 'docs-porxy',
         routeBasePath: 'docs-porxy',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'hybrid',
+        id: 'docs-hybrid',
         path: 'docs-hybrid',
         routeBasePath: 'docs-hybrid',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
@@ -112,27 +118,27 @@ const config = {
             position: 'left',
             label: '开始',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'basicSiderbar',
-            position: 'left',
-            label: '插件',
-            docsPluginId: "plugin"
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'basicSiderbar',
-            position: 'left',
-            label: '代理端',
-            docsPluginId: "proxy"
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'basicSiderbar',
-            position: 'left',
-            label: '混合端',
-            docsPluginId: "hybrid"
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'basicSiderbar',
+          //   position: 'left',
+          //   label: '插件',
+          //   docsPluginId: "docs-plugin"
+          // },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'basicSiderbar',
+          //   position: 'left',
+          //   label: '代理端',
+          //   docsPluginId: "docs-proxy"
+          // },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'basicSiderbar',
+          //   position: 'left',
+          //   label: '混合端',
+          //   docsPluginId: "docs-hybrid"
+          // },
           // 搜索框
           {
             type: 'search',
