@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ## 下载
 
-前往 [核心选择](/docs/process/cross-server/server-core-choose.md)
+前往 [核心选择](/docs-porxy/cross-server/server-core-choose.md)
 
 1.7.10用BungeeCord的 [构建1119](https://ci.md-5.net/job/BungeeCord/1119/)
 
@@ -75,4 +75,4 @@ servers:
 
 ## 加入
 
-见 [加入服务器](/docs/process/cross-server/build-up/join-server.md)
+见 [加入服务器](/docs-porxy/cross-server/build-up/join-server.md)

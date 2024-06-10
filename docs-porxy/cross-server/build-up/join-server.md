@@ -15,7 +15,7 @@ sidebar_position: 3
 /server 子服名字
 ```
 
-即可 不过不建议用 `/server` 详见 [此处](/docs/process/cross-server/precautions.md#不要给玩家server权限)
+即可 不过不建议用 `/server` 详见 [此处](/docs-porxy/cross-server/precautions.md#不要给玩家server权限)
 
 :::warning
 
