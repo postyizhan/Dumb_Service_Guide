@@ -106,7 +106,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'docs/intro',
+            docId: '/docs/intro',
             position: 'left',
             label: '开始',
           },
@@ -114,19 +114,19 @@ const config = {
             to: '/docs-plugin/intro',
             position: 'left',
             label: '插件',
-            activeBaseRegex: `/docs-plugin/`,
+            activeBaseRegex: '/docs-plugin/',
           },
           {
             to: '/docs-proxy/intro',
             position: 'left',
             label: '代理端',
-            activeBaseRegex: `/docs-proxy/`,
+            activeBaseRegex: '/docs-proxy/',
           },
           {
             to: '/docs-hybrid/intro',
             position: 'left',
             label: '混合端',
-            activeBaseRegex: `/docs-hybrid/`,
+            activeBaseRegex: '/docs-hybrid/',
           },
           // 搜索框
           {
