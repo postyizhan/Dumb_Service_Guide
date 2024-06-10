@@ -1,6 +1,6 @@
 ---
-title: 插件缩写
-sidebar_position: 4
+title: 不分插件缩写
+sidebar_position: 9
 ---
 
 # 插件缩写

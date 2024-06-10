@@ -7,11 +7,7 @@ sidebar_position: 3
 
 插件的配置文件一般在 `/plugins/插件名字/` 文件夹中，常见的配置文件一般是 `config.yml` 。
 
-:::warning
-
-请务必保证你已经完全了解 YAML 语法，否则你会遇到大量的报错！
-
-:::
+> 一般插件会使用**Yaml**作为配置文件格式，建议先学习 [Yaml](/docs/sundry/YAML/overview.md)
 
 我们在开始前所做的准备工作中，推荐你安装任意一款推荐的文档编辑软件。
 
