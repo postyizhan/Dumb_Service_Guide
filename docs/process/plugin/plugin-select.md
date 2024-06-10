@@ -139,4 +139,4 @@ https://crowdin.com/project/simpleclans
 
 还有它可能写在插件文档里，在项目README里，在配置文件的注释里
 
-[如何把插件语言改成中文？/如何汉化插件？](./configuruation.md#如何汉化插件)
+[如何把插件语言改成中文？/如何汉化插件？](/docs/process/plugin/config.md#如何汉化插件)
