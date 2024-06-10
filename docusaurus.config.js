@@ -49,7 +49,7 @@ const config = {
       ({
         docs: {
           path: 'docs',
-          routeBasePath: '/docs',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/postyizhan/NitWikit/tree/main'
         },
@@ -154,19 +154,19 @@ const config = {
             items: [
               {
                 label: '开始',
-                to: 'docs/intro',
+                to: '/docs/intro',
               },
               {
                 label: '插件',
-                to: 'docs/intro',
+                to: '/docs/intro',
               },
               {
                 label: '代理端',
-                to: 'docs-proxy/intro',
+                to: '/docs-proxy/intro',
               },
               {
                 label: '混合端',
-                to: 'docs-hybrid/intro',
+                to: '/docs-hybrid/intro',
               },
             ],
           },
