@@ -48,7 +48,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: 'docs',
           routeBasePath: 'docs',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
@@ -118,27 +117,21 @@ const config = {
             position: 'left',
             label: '开始',
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'basicSiderbar',
-          //   position: 'left',
-          //   label: '插件',
-          //   docsPluginId: "docs-plugin"
-          // },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'basicSiderbar',
-          //   position: 'left',
-          //   label: '代理端',
-          //   docsPluginId: "docs-proxy"
-          // },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'basicSiderbar',
-          //   position: 'left',
-          //   label: '混合端',
-          //   docsPluginId: "docs-hybrid"
-          // },
+          {
+            label: '插件',
+            to: '/docs-plugin/intro',
+            activeBaseRegex: '/docs-plugin/',
+          },
+          {
+            label: '代理端',
+            to: '/docs-proxy/intro',
+            activeBaseRegex: '/docs-proxy/',
+          },
+          {
+            label: '混合端',
+            to: '/docs-hybrid/intro',
+            activeBaseRegex: '/docs-hybrid/',
+          },
           // 搜索框
           {
             type: 'search',
