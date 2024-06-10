@@ -106,47 +106,32 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'basicSiderbar',
             position: 'left',
             label: '开始',
             docsPluginId: "default"
           },
           {
             type: 'docSidebar',
+            sidebarId: 'basicSiderbar',
             position: 'left',
             label: '插件',
             docsPluginId: "docs-plugin"
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'apiSidebar',
-          //   position: 'left',
-          //   label: 'API',
-          //   docsPluginId: "api"
-          // },
-          // {
-          //   to: '/docs/intro',
-          //   position: 'left',
-          //   label: '开始',
-          //   activeBaseRegex: '/docs/',
-          // },
-          // {
-          //   to: '/docs-plugin/intro',
-          //   position: 'left',
-          //   label: '插件',
-          //   activeBaseRegex: '/docs-plugin/',
-          // },
-          // {
-          //   to: '/docs-proxy/intro',
-          //   position: 'left',
-          //   label: '代理端',
-          //   activeBaseRegex: '/docs-proxy/',
-          // },
-          // {
-          //   to: '/docs-hybrid/intro',
-          //   position: 'left',
-          //   label: '混合端',
-          //   activeBaseRegex: '/docs-hybrid/',
-          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'basicSiderbar',
+            position: 'left',
+            label: '代理端',
+            docsPluginId: "docs-proxy"
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'basicSiderbar',
+            position: 'left',
+            label: '混合端',
+            docsPluginId: "docs-hybrid"
+          },
           // 搜索框
           {
             type: 'search',
