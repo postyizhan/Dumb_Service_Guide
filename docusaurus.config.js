@@ -105,7 +105,7 @@ const config = {
         hideOnScroll: false,
         items: [
           {
-            type: 'doc',
+            type: 'docSidebar',
             position: 'left',
             label: '开始',
             docsPluginId: "default"
