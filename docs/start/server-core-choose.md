@@ -63,7 +63,7 @@ Purpur端会自动安装 [spark（一个性能分析插件）](/docs/maintenance
 
 如果已经安装想删除，可以在服务端根目录的 cache 文件夹中找到spark
 
-最后:**不建议删除 spark** ，这是一个性能分析插件，可以找大佬帮你分析服务器卡顿原因 [怎么让大佬帮我](/docs/maintenance/optimize/how-do-I-get-the-big-guy-to-help-me.md)
+最后:**不建议删除 spark** ，这是一个性能分析插件，可以找大佬帮你分析服务器卡顿原因 [怎么让大佬帮我](/docs/maintenance/optimize/ask-for-help.md)
 
 而且不使用就这么放着也不占多少资源
 

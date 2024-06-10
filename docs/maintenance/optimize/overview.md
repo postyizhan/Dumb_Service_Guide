@@ -42,7 +42,7 @@ sidebar_position: 1
 
 <summary>选择更换的服务器核心</summary>
 
-此处只是作为最基础的核心选择推荐，完整版请查看[核心选择](/docs/start/server-core-choose.md)
+此处只是作为最基础的核心选择推荐，完整版请查看[核心选择](/docs/start/server-core-choose)
 
 ## Paper - 追求稳定 *推荐度★★★★☆*
 

@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ## 下载
 
-在 [核心选择](/docs/process/cross-server/核心选择.md) 找到 Velocity 然后下载
+在 [核心选择](/docs/process/cross-server/server-core-choose) 找到 Velocity 然后下载
 
 ## 启动
 
