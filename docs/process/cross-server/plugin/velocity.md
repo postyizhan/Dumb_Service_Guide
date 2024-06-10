@@ -25,7 +25,7 @@ sidebar_position: 2
 
 :::info
 
-见 [插件 | LimboAuth](/docs/process/plugin/其他/登录/LimboAuth.md)
+见 [插件 | LimboAuth](/docs/process/plugin/other/登录/LimboAuth.md)
 
 :::
 

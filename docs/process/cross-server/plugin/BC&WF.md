@@ -35,7 +35,7 @@ sidebar_position: 1
 
 :::info
 
-见 [这里](/docs/process/plugin/其他/跨版本/概览.md)
+见 [这里](/docs/process/plugin/other/跨版本/概览.md)
 
 :::
 
@@ -49,7 +49,7 @@ sidebar_position: 1
 
 ## SkinsRestorer
 
-[插件 | 皮肤 - skinsRestorer](/docs/process/plugin/其他/皮肤%20-%20skinsRestorer.md)
+[插件 | 皮肤 - skinsRestorer](/docs/process/plugin/other/皮肤%20-%20skinsRestorer.md)
 
 :::danger[缺点]
 
@@ -61,7 +61,7 @@ sidebar_position: 1
 
 :::info
 
-见 [这里](/docs/sundry/mobile-player/Geyser/introduction/overview.md)
+见 [这里](/docs/process/mobile-player/Geyser/introduction/overview.md)
 
 :::
 
