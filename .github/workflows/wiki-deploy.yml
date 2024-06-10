@@ -7,6 +7,11 @@ on: [ workflow_dispatch, push ]
 permissions:
   contents: write
 
+
+# 环境变量
+env:
+  BASE_URL: NitWikit
+
 # 任务
 jobs:
   deploy:
