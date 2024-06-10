@@ -75,7 +75,7 @@ SpigotMC应该是目前mc开服圈最大的插件网站了，最大的问题是�
 <details>
   <summary>注册问题</summary>
 
-[在 GitHub 上创建帐户](https://docs.github.com/zh/get-started/start-your-journey/creating-an-account-on-github)
+[在 GitHub 上创建帐户](https://docs.github.com/zh/get-started/start-your-journey/creating-an-account-on-github.md)
 
 </details>
 

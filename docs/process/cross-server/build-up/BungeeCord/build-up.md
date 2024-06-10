@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ## 下载
 
-前往 [核心选择](/docs/process/cross-server/server-core-choose)
+前往 [核心选择](/docs/process/cross-server/server-core-choose.md)
 
 1.7.10用BungeeCord的 [构建1119](https://ci.md-5.net/job/BungeeCord/1119/)
 
