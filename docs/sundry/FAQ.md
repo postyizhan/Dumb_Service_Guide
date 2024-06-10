@@ -57,7 +57,7 @@ set https_proxy=http://127.0.0.1:7890
 
 试着安装皮肤插件
 
-[跨服端 | SkinsRestorer](/docs/process/cross-server/plugin/BC&WF.md#skinsrestorer)
+[跨服端 | SkinsRestorer](/docs-porxy/cross-server/plugin/BC&WF.md#skinsrestorer)
 
 看你需求，如果你是单端就安装单端版的 SkinsRestorer
 

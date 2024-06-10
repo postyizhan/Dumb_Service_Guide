@@ -39,7 +39,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['zh-Hans', 'en'],
   },
 
   presets: [
@@ -48,8 +48,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: 'docs',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/',
           editUrl: 'https://github.com/postyizhan/NitWikit/tree/main'
         },
         blog: false,
@@ -64,11 +66,34 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'demo',
-        path: 'demo',
-        routeBasePath: 'demo',
+        id: 'docs-plugin',
+        path: 'docs-plugin',
+        routeBasePath: 'docs-plugin',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
         sidebarPath: require.resolve('./sidebars.js'),
-        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-porxy',
+        path: 'docs-porxy',
+        routeBasePath: 'docs-porxy',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-hybrid',
+        path: 'docs-hybrid',
+        routeBasePath: 'docs-hybrid',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
+        sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
   ],
@@ -93,10 +118,19 @@ const config = {
             label: '开始',
           },
           {
-            to: '/demo/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
-            position: 'left',
-            label: 'Demo',
-            activeBaseRegex: `/demo/`,
+            label: '插件',
+            to: '/docs-plugin/intro',
+            activeBaseRegex: '/docs-plugin/',
+          },
+          {
+            label: '代理端',
+            to: '/docs-proxy/intro',
+            activeBaseRegex: '/docs-proxy/',
+          },
+          {
+            label: '混合端',
+            to: '/docs-hybrid/intro',
+            activeBaseRegex: '/docs-hybrid/',
           },
           // 搜索框
           {
@@ -124,7 +158,19 @@ const config = {
             items: [
               {
                 label: '开始',
-                to: '/intro',
+                to: '/docs/intro',
+              },
+              {
+                label: '插件',
+                to: '/docs-plugin/intro',
+              },
+              {
+                label: '代理端',
+                to: '/docs-proxy/intro',
+              },
+              {
+                label: '混合端',
+                to: '/docs-hybrid/intro',
               },
             ],
           },

@@ -17,7 +17,7 @@ sidebar_label: 查包 - InvSee++
 
 InvSee++可以查看和编辑其他玩家的物品栏和末影箱。
 
-[Essentials](/docs/process/plugin/管理工具/基础插件/EssentialsX/概览.md) 也有这个功能
+[Essentials](/docs-plugin/manage-tool/基础插件/EssentialsX/概览) 也有这个功能
 
 不过相比 InvSee++ 不能：
 
