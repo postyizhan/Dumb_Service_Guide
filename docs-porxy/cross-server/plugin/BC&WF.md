@@ -61,7 +61,7 @@ sidebar_position: 1
 
 :::info
 
-见 [这里](/docs/process/mobile-player/Geyser/introduction/overview.md)
+见 [这里](/docs-porxy/mobile-player/Geyser/introduction/overview.md)
 
 :::
 
