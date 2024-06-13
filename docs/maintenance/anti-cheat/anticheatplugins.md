@@ -79,6 +79,12 @@ Matrix 是由国人 RE 编写的一款反作弊插件，当年诞生是用于取
 
 > Github: https://github.com/Updated-NoCheatPlus/NoCheatPlus
 
+或者Leaf核心作者梦梦（国人）的分支版本
+
+剔除了一些检测以提升性能
+
+> https://github.com/Dreeam-qwq/NoCheatPlus
+
 ## GrimAC 2.0
 
 一个相当不错的实验性反作弊，支持避免检查来自Geyser的玩家，移动检测虽然强大但有很多误判。
