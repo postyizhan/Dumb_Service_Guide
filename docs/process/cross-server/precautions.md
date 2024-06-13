@@ -1,6 +1,6 @@
 ---
 title: 注意事项
-sidebar_position: 6
+sidebar_position: 8
 ---
 
 # 注意事项

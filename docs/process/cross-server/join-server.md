@@ -1,6 +1,6 @@
 ---
 title: 加入服务器
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # 加入服务器
