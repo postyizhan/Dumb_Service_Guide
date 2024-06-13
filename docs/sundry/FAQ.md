@@ -71,3 +71,20 @@ set https_proxy=http://127.0.0.1:7890
 
 随后可以修改环境变量 `JAVA_HOME` 即可，如果不懂看[这篇文章](https://blog.csdn.net/MrsHorse/article/details/82695353)
 
+## 如何启用命令方块？
+
+服务器中命令方块默认关闭
+
+**并且不建议开启**
+
+我想不明白为什么你要用性能低下的命令方块
+
+如果你非要用的话：
+
+在 `server.properties` 中
+
+```
+enable-command-block=false
+```
+
+将此项设置为true
