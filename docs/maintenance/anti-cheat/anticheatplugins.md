@@ -174,3 +174,15 @@ Github：https://github.com/TalentsRC/Talents-AntiCheat-Config
 一般个人建议是一个服务器的反作弊两个足够，一个的话容易被绕，
 
 太多又会严重影响服务器性能，并产生大量误判，一般装两个足够了。
+
+:::warning
+
+杂交可能会出现大量误判回弹
+
+:::
+
+高版本组合参考：
+
+> Matrix + GrimAC
+
+> NoChestPlus + GrimAC
