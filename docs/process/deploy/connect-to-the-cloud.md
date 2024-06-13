@@ -32,6 +32,8 @@ sidebar_position: 3
 
 方便你传输文件
 
+或者，你也可以 Ctrl CV 来传文件
+
 ![](_images/连接服务器/2.png)
 
 ![](_images/连接服务器/3.png)
