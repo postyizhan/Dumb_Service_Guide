@@ -7,6 +7,24 @@ sidebar_position: 1
 
 一个好用的文本编辑器是**相当**重要的，请不要再使用 Windows 自带的记事本和写字板 (已在 Windows 11 移除)了。
 
+# 记得保存文件
+
+发现有人第一次用文本编辑器不知道编辑完后保存
+
+![](_images/白点.png)
+
+vscode会在未保存的文件后标记一个白点，提示你这个文件编辑了但是没有保存（其他文本编辑器类似）
+
+![](_images/vscode保存和自动保存.png)
+
+保存按钮（红色箭头）
+
+> 不过我更喜欢用快捷键来保存 Ctrl + S
+
+开启自动保存（绿色箭头）
+
+~~当年TrMenu的自动重载治好了我的autosave~~
+
 ## Visual Studio Code
 
 <details>
@@ -21,6 +39,8 @@ sidebar_position: 1
 官网链接：https://code.visualstudio.com/
 
 [下载龟速怎么办](https://cn.bing.com/search?q=vscode%E4%B8%8B%E8%BD%BD%E9%BE%9F%E9%80%9F%E6%80%8E%E4%B9%88%E5%8A%9E)
+
+[vscode汉化](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
 
 </details>
 
