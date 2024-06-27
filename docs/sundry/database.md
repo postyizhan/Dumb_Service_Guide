@@ -34,7 +34,7 @@ MariaDB是著名的MySQL分叉，只是服务器腐竹的话，你只需要知�
 
 # 安装
 
-我会告诉你 **我认为** 最简单的几种安装数据库的方法
+建议使用小皮数据库或宝塔面板，原版的 MySQL / MariaDB 对部分人来说 **可能** 太难了
 
 ## 小皮数据库
 
@@ -144,7 +144,25 @@ TODO
 
 </details>
 
-### 配置
+## 原版安装 MySQL
+
+<details>
+  <summary>点击展开</summary>
+
+TODO
+
+</details>
+
+## 原版安装 MariaDB
+
+<details>
+  <summary>点击展开</summary>
+
+TODO
+
+</details>
+
+## 配置
 
 1. 请一定记得关闭远程数据库访问;
 
