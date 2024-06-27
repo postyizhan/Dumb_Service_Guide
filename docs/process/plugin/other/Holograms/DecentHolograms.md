@@ -8,7 +8,7 @@ sidebar_position: 2
 
 `文档（英文）` :https://wiki.decentholograms.eu/
 
-`SpigotMC` :https://www.spigotmc.org/resources/decentholograms-1-8-1-20-6-papi-support-no-dependencies.96927/
+`SpigotMC` :https://www.spigotmc.org/resources/.96927/
 
 `GitHub` :https://github.com/DecentSoftware-eu/DecentHolograms
 
