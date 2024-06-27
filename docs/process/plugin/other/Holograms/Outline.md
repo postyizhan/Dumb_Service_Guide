@@ -12,8 +12,6 @@ sidebar_position: 1
 
 > 全息图也被很多人称作浮空字
 
-
-
 ![](_images/holo.png)
 
 全息图用途很广，很多服务器都会使用全息图插件。
