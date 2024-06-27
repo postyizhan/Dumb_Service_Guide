@@ -183,7 +183,16 @@ CREATE DATABASE <数据库名称> CHARACTER SET utf8mb4 COLLATE utf8mb4_general_
 
 4. 数据库参数记得调整(TODO)
 
-## Redis
+## 备份
+
+### 手动备份
 
 TODO
 
+### 自动备份
+
+TODO
+
+## Redis
+
+TODO
