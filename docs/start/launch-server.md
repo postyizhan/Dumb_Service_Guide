@@ -68,7 +68,7 @@ java -Xms2G -Xmx2G -jar 核心名.jar --nogui
 
 ## 最初的开启
 
-双击启动脚本后，大概率会卡在你会看到 Downloading mojang_x.x.x.jar，请耐心等待或查看[加速 mojang 核心下载](/docs/sundry/FAQ.md)
+双击启动脚本后，大概率会卡在你会看到 Downloading mojang_x.x.x.jar，请耐心等待
 
 一旦下载完成，他会提示：
 
@@ -88,7 +88,7 @@ Done (6.554s)! For help， type "help"
 
 :::tip
 
-你可以点击目录中的连接服务器进入下一节内容了!
+你可以点击目录中的配置服务器进入下一节内容了!
 
 :::
 
@@ -96,73 +96,41 @@ Done (6.554s)! For help， type "help"
 
 请参考 [JVM参数优化](/docs/maintenance/optimize/jvm-optimization.md)
 
-## 笨蛋脚本
+## 常见问题
 
-开启后，你可能需要进行一些简单配置，比如修改服务器端口，正版验证等
+### Downloading mojang_x.x.x.jar
 
-[下载](https://github.com/lilingfengdev/NitWiki-Script/releases/download/windows-latest/config-eazy.exe)，我们会询问一些问题，帮你**自动配置**
-
-目前可以配置的
-* 服务器端口
-* 正版验证
-* 服务器种子
-* 最大玩家数
-
-## 正版验证
-
-正版验证默认被开启，不关闭正版验证的话盗版玩家是不能加入游戏的。如果你没有用正版启动游戏，那么加入服务器会出现
-
-![](_images/无效会话.png)
-
-在 **server.properties** 中找到此项
+如果您的服务器卡在：
 
 ```
-online-mode=true
+Downloading mojang_x.x.x.jar
 ```
-如果你想关闭正版验证，将 true 改为 false ，保存，重启服务端
 
-:::danger
+请尝试使用科学上网。
 
-不要开服开到一半去改正版验证! 这会造成UUID混乱，玩家数据丢失
+### 我不会在命令行界面 (CMD / 终端 / Powershell) 使用科学上网！
 
-[Offline2OnlineUUIDFix](https://github.com/yfy-dodo939/Offline2OnlineUUIDFix) 可以解决此问题（感谢[yfy-dodo939提供](https://github.com/postyizhan/NitWikit/issues/67)）
+:::tip
+
+其实你可以直接开启TUN模式
+
+记得让小地球变绿
+
+![](_images/常见问题/小地球.png)
 
 :::
 
-## 最大玩家数
+请确定您的科学上网是可用的，不多赘述。
 
-在 **server.properties** 中找到此项
+在命令行界面（一般情况下，一个黑 / 蓝框框）中执行这两条
 
-```
-max-players=20
-```
-
-后面的数字就是你希望这个服务器最大能进入的玩家数。
-
-## 服务器种子
-
-在 **server.properties** 中找到此项
-
-```
-level-seed=
+```shell
+set http_proxy=http://127.0.0.1:7890
+set https_proxy=http://127.0.0.1:7890
 ```
 
-这里面就可以填上你想要的种子。
+其中 `7980` 是您的科学上网软件设置的端口，若有不同，请替换。
 
-:::note
+注：输入之后仅对这个命令行窗口有效，`开启新的 / 关闭它`之后要重新输入。
 
-你可能会发现一些结构，比如村庄的生成，并不会遵循种子，是由于 Spigot 及其下游服务端加入了随机种子，地形的生成也会出现一些偏差
-
-当然，你仍然可以利用种子定位群系，比如找史莱姆区块
-
-:::
-
-## 服务器端口
-
-在 **server.properties** 中找到此项
-
-```
-server-port=25565
-```
-
-后面就可以改成你想要的服务器端口，当然，玩家连接的也需要更改(或者使用 srv 转发)
+> 大佬们，浏览器能用不是cmd能用，不然你猜我为什么写这个。

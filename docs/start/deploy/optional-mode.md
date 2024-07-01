@@ -1,6 +1,6 @@
 ---
 title: 可选方式
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # 可选方式
@@ -11,7 +11,7 @@ sidebar_position: 2
 
 :::
 
-建议先阅读 [购置服务器](/docs/sundry/purchase-server.md)
+建议先阅读 [购置服务器](purchase-server.md)
 
 ## 面板
 

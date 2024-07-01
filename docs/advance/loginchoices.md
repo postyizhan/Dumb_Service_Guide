@@ -1,5 +1,6 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
+slug: /Advance/Login
 ---
 
 # 服务器登录方式的选择

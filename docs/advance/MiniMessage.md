@@ -12,13 +12,13 @@ MiniMessage 的实质是一个叫 Adventure 的库，这是它的 [文档](https
 
 目前，一些平台已经支持原生使用 Adventure 来扩展字符串，以下是内置此库的列表：
 
-|支持平台|支持版本|备注|
-|---|---|---|
-|Sponge|Sponge 8 (1.16.5)|/|
-|Velocity|1.1.0 build 158|仅支持消息、操作栏标题、boss栏和标题|
-|Paper|1.16.5 build 473|/|
-|Minestom|Build 7494725|内容有点杂，详见[minestom wiki](https://wiki.minestom.net/feature/adventure)|
-|Fabric|`adventure-platform-fabric` 5.3.0*|虽然不是一个东西(?)，但是体验是一样的|
+| 支持平台     | 支持版本                               | 备注                                                                   |
+|----------|------------------------------------|----------------------------------------------------------------------|
+| Sponge   | Sponge 8 (1.16.5)                  | /                                                                    |
+| Velocity | 1.1.0 build 158                    | 仅支持消息、操作栏标题、boss栏和标题                                                 |
+| Paper    | 1.16.5 build 473                   | /                                                                    |
+| Minestom | Build 7494725                      | 内容有点杂，详见[minestom wiki](https://wiki.minestom.net/feature/adventure) |
+| Fabric   | `adventure-platform-fabric` 5.3.0* | 虽然不是一个东西(?)，但是体验是一样的                                                 |
 
 *详情可以参阅 [Adventure 本机支持](https://docs.advntr.dev/platform/native.html)*
 
@@ -40,7 +40,7 @@ MiniMessage 的实质是一个叫 Adventure 的库，这是它的 [文档](https
 
 :::
 
-和 [格式化代码](format-code) 篇一样，用一个 TrMenu 菜单配置展示下：
+和 [格式化代码](format-code.md) 篇一样，用一个 TrMenu 菜单配置展示下：
 
 ```
 Icons:

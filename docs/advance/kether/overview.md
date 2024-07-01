@@ -1,7 +1,7 @@
 ---
 title: kether 教程
-slug: /Sundry/Kether
-sidebar_position: 9
+slug: /Advance/Kether
+sidebar_position: 3
 ---
 
 # 概览

@@ -78,6 +78,10 @@ const config = {
         },
       },
       image: 'img/docusaurus-social-card.jpg',
+      metadata: [
+        {name: '开服教程', content: '一群笨蛋们写的 Minecraft 开服教程'},
+        {name: 'MC教程' , content: '一群笨蛋们写的 Minecraft 开服教程'},
+      ],
       navbar: {
         title: 'NitWikit',
         logo: {
